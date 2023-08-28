@@ -6,8 +6,12 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Bibliography",
-      "format": "formatted-bibliography",
+      "name": "Format #2",
+      "format": "formatted-citation"
+    },
+    {
+      "name": "Cite",
+      "format": "formatted-citation",
       "cslStyle": "harvard-melbourne-polytechnic"
     }
   ],
