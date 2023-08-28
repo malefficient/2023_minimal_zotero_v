@@ -10,7 +10,8 @@
       "name": "Import #1",
       "outputPathTemplate": "{{citekey}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Z_Templates/assets/Paper.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
