@@ -6,7 +6,7 @@
     "attachFormat": "IMG-${date}",
     "type": "GLOBAL"
   },
-  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "dateFormat": "YYYYMMDDHHmm",
   "handleAll": false,
   "excludeExtensionPattern": "",
   "autoRenameAttachment": true,
