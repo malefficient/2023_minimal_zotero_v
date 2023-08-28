@@ -18,8 +18,8 @@
   "exportFormats": [
     {
       "name": "Melbourne Polytechnic",
-      "outputPathTemplate": "Z_IN/{{citekey}}/{{citekey}}.md",
-      "imageOutputPathTemplate": "Z_IN/{{citekey}}/assets",
+      "outputPathTemplate": "Z_Out/{{citekey}}-fname.md",
+      "imageOutputPathTemplate": "",
       "imageBaseNameTemplate": "img",
       "cslStyle": "harvard-melbourne-polytechnic",
       "templatePath": "Z_Templates/assets/Paper.md"
