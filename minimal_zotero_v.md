@@ -11,15 +11,10 @@ Before you get started you will need to get situated on a desktop system that yo
 
 Once you have installed the fat desk
 ## Install Better-BibTex add-on into Zotero
-Once Zotero desktop application  has been installed, you will need to download [The *Zotero* 'Better- Bibtex' plugin](https://github.com/retorquere/zotero-better-bibtex/releases) and install it into the native desktop zotero application. 
+Once Zotero desktop application  has been installed, you will need to download [The *Zotero* 'Better- Bibtex' plugin](https://github.com/retorquere/zotero-better-bibtex/releases) (made by https://github.com/retorquere), and install it into the native desktop zotero application. 
 
 > [!WARN] Warning
 > During this stage you are adding a plugin to the native Zotero app! Not obsidian.
-
-
-> [!tip]
-> I have included a copy of `zotero-better-bibtex-6.7.114.xpi` inside the corresponding git repo.
-
 
 
 ![[img-install-zotero-addons.png]]
