@@ -16,6 +16,9 @@ Once Zotero desktop application  has been installed, you will need to download [
 > [!WARN] Warning
 > During this stage you are adding a plugin to the native Zotero app! Not obsidian.
 
+> [!todo]
+>  Wouldn;t it be neat if i just hosted some cloud instance of the zotero better-bib-tex server online somewhere ? Could i just maintain it as some sea-lab-lab infrastructure so nobody else has/needs to maintain the bibTeX mapping?
+
 
 ![[img-install-zotero-addons.png]]
 
