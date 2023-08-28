@@ -1,27 +1,22 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "xyz_imports_to_be_processed",
+  "noteImportFolder": "Inbox/",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Format #2",
-      "format": "formatted-citation"
-    },
-    {
-      "name": "Cite",
-      "format": "formatted-citation",
-      "cslStyle": "harvard-melbourne-polytechnic"
+      "name": "Format #1",
+      "format": "template"
     }
   ],
   "exportFormats": [
     {
       "name": "Import #1",
-      "outputPathTemplate": "{{citekey}}.md",
-      "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image",
-      "templatePath": "Z_Templates/assets/Paper.md"
+      "outputPathTemplate": "Inbox/{{citekey}}/{{citekey}}.md",
+      "imageOutputPathTemplate": "Inbox/{{citekey}}/",
+      "imageBaseNameTemplate": "img",
+      "templatePath": "Templates/Inputs/Paper.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
