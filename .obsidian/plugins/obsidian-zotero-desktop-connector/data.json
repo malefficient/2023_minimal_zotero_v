@@ -6,17 +6,23 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Format #1",
-      "format": "template"
+      "name": "Cite",
+      "format": "formatted-citation"
+    },
+    {
+      "name": "Bibliography",
+      "format": "formatted-bibliography",
+      "cslStyle": "harvard-melbourne-polytechnic"
     }
   ],
   "exportFormats": [
     {
-      "name": "Import #1",
-      "outputPathTemplate": "Inbox/{{citekey}}/{{citekey}}.md",
-      "imageOutputPathTemplate": "Inbox/{{citekey}}/",
+      "name": "Melbourne Polytechnic",
+      "outputPathTemplate": "Z_IN/{{citekey}}/{{citekey}}.md",
+      "imageOutputPathTemplate": "Z_IN/{{citekey}}/assets",
       "imageBaseNameTemplate": "img",
-      "templatePath": "Templates/Inputs/Paper.md"
+      "cslStyle": "harvard-melbourne-polytechnic",
+      "templatePath": "Z_Templates/assets/Paper.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
